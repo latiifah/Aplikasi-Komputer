@@ -1,4 +1,3 @@
-[Uploading LaTeX_Latifah Nurfitriyani_22305141010.zip…]()
 A. Software Euler Math Toolbox <br>
 
      1. Pengenalan Software Euler Math Toolbox <br>
