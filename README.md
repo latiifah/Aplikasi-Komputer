@@ -1,5 +1,3 @@
-<br>
-
 A. Software Euler Math Toolbox <br>
 
      1. Pengenalan Software Euler Math Toolbox <br>
